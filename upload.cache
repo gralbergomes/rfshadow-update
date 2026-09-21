@@ -12,8 +12,8 @@
 /DataTable/GemSockets.EDF.zip|60a0185b347177f7913ed92065890dca
 /DataTable/Hint.edf.zip|3a1c700986efdc67d1439f8239335987
 /DataTable/Ipa.dic.zip|26c1c219a87cb1561d76d1913bb72fd8
-/DataTable/Item.edf.zip|d87008ad84c0ee397c593d622775eae9
-/DataTable/ItemCash.edf.zip|876a8ee388c7b1e33856bee6f08d6b74
+/DataTable/Item.edf.zip|34c4378ce2be9b54462dbfe77602ce9b
+/DataTable/ItemCash.edf.zip|3ad9d005a220c73a4da30608f833803f
 /DataTable/ItemCombine.edf.zip|8561b4b1d731b0de0f1af03fa86e8710
 /DataTable/ItemPremium.edf.zip|1ad9c98dd2db4e797c1190d96275c7e5
 /DataTable/ItemSetEffect.edf.zip|251130b9e444e7d1553f05fb81a4704c
@@ -33,7 +33,7 @@
 /DataTable/Resource.edf.zip|2ac3aeaf67c40ab44b09d48dc7f54807
 /DataTable/SetItemEffect.edf.zip|c97bbd98029e54380a40e819a1c0107a
 /DataTable/SkillForce.edf.zip|bc2820693542f11104c5b8ce5115aa7b
-/DataTable/Store.edf.zip|5dd8ca5fbe48ea0a66eff98ef1d99603
+/DataTable/Store.edf.zip|9a6a738552c4bd91bc3c571f15b0f3a2
 /DataTable/Transmog.EDF.zip|70dac42213d0fda07ca2545c5975bfd4
 /DataTable/UIHelp.edf.zip|9ae54f51a09ff29563cfd0bd7df520e5
 /DataTable/WORLDMAPDATA.DAT.zip|58397da6365f0683a0b86ca284450148
@@ -79,8 +79,8 @@
 /DataTable/en-gb/MonsterScript.edf.zip|35d00959d5f5296e9324ef7defedc821
 /DataTable/en-gb/NDCharacter.edf.zip|da071115957b720699778b9ec6d3b9e6
 /DataTable/en-gb/NDEventShip.edf.zip|f94b8eaf9a937763eb688b9279d5f58b
-/DataTable/en-gb/NDItem.edf.zip|e603dcd8d4504b0c96a134ae439f3313
-/DataTable/en-gb/NDItemCash.edf.zip|39846384c79aab2679824bfaeb706d73
+/DataTable/en-gb/NDItem.edf.zip|f01a7a158f9550097cf8cd836e3c3dc1
+/DataTable/en-gb/NDItemCash.edf.zip|fe62c2c32048b0a4fb4d5cdc9b5b1a49
 /DataTable/en-gb/NDLanguage.edf.zip|275e79370aefd7767f6f5b64b0f70b56
 /DataTable/en-gb/NDMap.edf.bak_2026-09-16.zip|36c189256aa5f6b3b79e016ff85c075c
 /DataTable/en-gb/NDMap.edf.zip|d2f73ce0e19b909225ec797c80d34511
@@ -88,7 +88,7 @@
 /DataTable/en-gb/NDMsgMonster.edf.zip|24e9b4b1d9d793ee1e9ae550b5bc1a36
 /DataTable/en-gb/NDQuest.edf.zip|7b38028aef8487371edbeef1773666bc
 /DataTable/en-gb/NDSkillForce.edf.zip|cfb08b817b6feebf8a7c1e03b00a0e1c
-/DataTable/en-gb/NDStore.edf.zip|51c8633ce3935ae363cb6931c0fa44f5
+/DataTable/en-gb/NDStore.edf.zip|5b1eb3f82bc60de5863f9140ec1035c1
 /DataTable/en-gb/PcRoom.edf.zip|554f1bc1fc37e3ef1e84ae6c302235f1
 /DataTable/en-gb/Player.edf.zip|99a08825bad2660665f9db06d25f778f
 /DataTable/en-gb/Quest.edf.zip|0abe2a4d3ccbd5649291ad5283fdbdbc
