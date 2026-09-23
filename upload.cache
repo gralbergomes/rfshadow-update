@@ -9,7 +9,7 @@
 /DataTable/Map.edf.zip|85d6e70bf01f4d2f29ed0f0f48450116
 /DataTable/MsgEvent.edf.zip|bcfada5b930f4b621c30ca7b78c4691c
 /DataTable/PlayerCharacter.edf.zip|61db54f47c56318f9650a2b1a32a787c
-/DataTable/Quest.edf.zip|17ef5368cc2cb33f9a813a1997144e55
+/DataTable/Quest.edf.zip|c92be97d9968c121438cf1b75a702a6a
 /DataTable/Resource.edf.zip|2ac3aeaf67c40ab44b09d48dc7f54807
 /DataTable/SkillForce.edf.zip|ae4406525756a7313b08276455650168
 /DataTable/Store.edf.zip|de8dcb949fbc330f232963a480d0f078
@@ -31,8 +31,6 @@
 /Map/Elan/Elan.ebp.zip|4aa3b3a8bebb93f2ee8d7a8704413ccb
 /Map/Sette/Sette.bsp.zip|b30456aaa334922e7589580326b6560c
 /Map/Sette/Sette.ebp.zip|630d744ac593cee417eb0a8406da32e0
-/RFShadowLauncher.exe.config.zip|51a1a24c0e86a7c0353291fbfda30a23
-/RFShadowLauncher.exe.zip|e23b4e01b6460e29dc03659d4c4a3249
 /SpriteImage/common/7DayLogin.spr.zip|4597cc1b38407c11f3427481d66cb013
 /SpriteImage/common/Etc.spr.zip|7cd7232f274aa94dcb972fcef3a516dc
 /SpriteImage/common/GuildSkills.spr.zip|425142ea4d2d5572e8bea47aa58a08ed
@@ -354,8 +352,3 @@
 /SpriteImage/ru-ru/itemupgrade.spr.zip|1c1b6643db91436d8bbc4c76d6e311b2
 /SpriteImage/ru-ru/loading.spr.zip|db9a39a36838daa6ac36a543d47f7460
 /SpriteImage/ru-ru/login.spr.zip|9f8c213f5ac63d5f70db5d28e39bc286
-/System/Launcher/Config/config.bin.zip|004232560fe66a7deb8d87bd8f734588
-/System/Launcher/Language/en.json.zip|309530e6d1effcb3d269b6abe3d4d402
-/System/Launcher/Language/pt-br.json.zip|6ae2d44a1acb7356193c8d097f3aaff7
-/System/Launcher/Resources/background.bmp.zip|f269831aa32cfb10ee9c641357de60cc
-/System/Launcher/Resources/theme.json.zip|1060c0cb48e9a28757ffc64e8c86b71f
