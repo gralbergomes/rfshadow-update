@@ -1,11 +1,11 @@
 /DataTable/Character.edf.zip|f921caeb66a1fd5d49745f9d85e586ba
 /DataTable/EventShip.edf.zip|9f1158bdfd3204cf04d6e969a567790c
-/DataTable/Item.edf.zip|d6735275d4c7456402ec34d5cabf581c
-/DataTable/ItemCash.edf.zip|3ad9d005a220c73a4da30608f833803f
+/DataTable/Item.edf.zip|0f9eccd948ca61a0ad3d80b9400dbc01
+/DataTable/ItemCash.edf.zip|62e29a55f8ff6e63e9bbc1169fd9b217
 /DataTable/ItemCombine.edf.zip|8561b4b1d731b0de0f1af03fa86e8710
 /DataTable/ItemPremium.edf.zip|1ad9c98dd2db4e797c1190d96275c7e5
 /DataTable/ItemSetEffect.edf.zip|251130b9e444e7d1553f05fb81a4704c
-/DataTable/ItemTimer.edf.zip|aa6e4ea028073442045102c12f3cd3ff
+/DataTable/ItemTimer.edf.zip|d558ce2840cd8f26d42d1ce6d8b5ae80
 /DataTable/Map.edf.zip|85d6e70bf01f4d2f29ed0f0f48450116
 /DataTable/MsgEvent.edf.zip|bcfada5b930f4b621c30ca7b78c4691c
 /DataTable/PlayerCharacter.edf.zip|61db54f47c56318f9650a2b1a32a787c
@@ -18,8 +18,8 @@
 /DataTable/en-gb/MAPDATA.DAT.zip|ed76337ec79b4efd9011169b0e54bae8
 /DataTable/en-gb/NDCharacter.edf.zip|8e2f9ed4d1be9bab072d62b2354149cc
 /DataTable/en-gb/NDEventShip.edf.zip|43ee4f8bfa68df5274575fe62ca53233
-/DataTable/en-gb/NDItem.edf.zip|10c44249b90e1b35eeac6857fbc34c5f
-/DataTable/en-gb/NDItemCash.edf.zip|e58048b874effe53976c75f7b794c4ec
+/DataTable/en-gb/NDItem.edf.zip|c4c8614123c81ec0c192e93a66ee192f
+/DataTable/en-gb/NDItemCash.edf.zip|f7a89d6b65a7ddcbd80af0778b7de7ed
 /DataTable/en-gb/NDLanguage.edf.zip|aa394f4aa780368f62bc4981c2dbd6f3
 /DataTable/en-gb/NDMap.edf.zip|49e75415fea4bf73f2820a60be48e561
 /DataTable/en-gb/NDMsgEvent.edf.zip|711c26de29943b58af762260a99c603b
