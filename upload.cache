@@ -1,6 +1,6 @@
 /DataTable/Character.edf.zip|f921caeb66a1fd5d49745f9d85e586ba
 /DataTable/EventShip.edf.zip|9f1158bdfd3204cf04d6e969a567790c
-/DataTable/Item.edf.zip|0f9eccd948ca61a0ad3d80b9400dbc01
+/DataTable/Item.edf.zip|763c9dec1829a51245b487337c1eb701
 /DataTable/ItemCash.edf.zip|62e29a55f8ff6e63e9bbc1169fd9b217
 /DataTable/ItemCombine.edf.zip|8561b4b1d731b0de0f1af03fa86e8710
 /DataTable/ItemPremium.edf.zip|1ad9c98dd2db4e797c1190d96275c7e5
@@ -12,13 +12,13 @@
 /DataTable/Quest.edf.zip|c92be97d9968c121438cf1b75a702a6a
 /DataTable/Resource.edf.zip|2ac3aeaf67c40ab44b09d48dc7f54807
 /DataTable/SkillForce.edf.zip|ae4406525756a7313b08276455650168
-/DataTable/Store.edf.zip|860514142b89189657b5740dc7a9ac8a
+/DataTable/Store.edf.zip|2531e7b79e50db7afdb852cbae4a74d8
 /DataTable/en-gb/KeyMap.dat.zip|d0e4425980e639af4894d590b5f57c20
 /DataTable/en-gb/KeyMap_NKM.dat.zip|3cb61acee58c95b01fd482df18cf03d4
 /DataTable/en-gb/MAPDATA.DAT.zip|ed76337ec79b4efd9011169b0e54bae8
 /DataTable/en-gb/NDCharacter.edf.zip|8e2f9ed4d1be9bab072d62b2354149cc
 /DataTable/en-gb/NDEventShip.edf.zip|43ee4f8bfa68df5274575fe62ca53233
-/DataTable/en-gb/NDItem.edf.zip|c4c8614123c81ec0c192e93a66ee192f
+/DataTable/en-gb/NDItem.edf.zip|e682a9f44bf37493a40b026f6ab1bd2b
 /DataTable/en-gb/NDItemCash.edf.zip|f7a89d6b65a7ddcbd80af0778b7de7ed
 /DataTable/en-gb/NDLanguage.edf.zip|aa394f4aa780368f62bc4981c2dbd6f3
 /DataTable/en-gb/NDMap.edf.zip|49e75415fea4bf73f2820a60be48e561
@@ -26,7 +26,7 @@
 /DataTable/en-gb/NDMsgMonster.edf.zip|e9daef60b0b07f4bfce1f8a26cb9af9f
 /DataTable/en-gb/NDQuest.edf.zip|3f328869e98487fdda14d710e6fae813
 /DataTable/en-gb/NDSkillForce.edf.zip|b2020b439a06f91536cb589c253abdd8
-/DataTable/en-gb/NDStore.edf.zip|4ae4734059c42dbc22a8da7cd0e6804f
+/DataTable/en-gb/NDStore.edf.zip|1aa3192b2187bec686aab5d7eeab1c0c
 /Map/Elan/Elan.BSP.zip|f500e7795f09e8640fa5d10774fb8c34
 /Map/Elan/Elan.ebp.zip|4aa3b3a8bebb93f2ee8d7a8704413ccb
 /Map/Sette/Sette.bsp.zip|b30456aaa334922e7589580326b6560c
