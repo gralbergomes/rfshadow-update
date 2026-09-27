@@ -12,7 +12,7 @@
 /DataTable/GemSockets.EDF.zip|742b1e159c9a6d40ca0f252e970f24c2
 /DataTable/Hint.edf.zip|f07012fdf750dbcb074dd52cf07f7b5c
 /DataTable/Ipa.dic.zip|763949e09e1fba438c41752b1197e741
-/DataTable/Item.edf.zip|24981100a1510880137c2613ce4ec3be
+/DataTable/Item.edf.zip|ab893cf77b6d91bf730276a600d1f038
 /DataTable/ItemCash.edf.zip|b543f95f5df1f87ee47b7ac4bd8f0831
 /DataTable/ItemCombine.edf.zip|75b9d1249d55fa1d668da265dc874b51
 /DataTable/ItemPremium.edf.zip|1ad9c98dd2db4e797c1190d96275c7e5
@@ -34,7 +34,7 @@
 /DataTable/Resource.edf.zip|2ac3aeaf67c40ab44b09d48dc7f54807
 /DataTable/SetItemEffect.edf.zip|ed48b690673ed0934621df4377b82e81
 /DataTable/SkillForce.edf.zip|e0e1820628bc53b3aa47d34cd94dd8f2
-/DataTable/Store.edf.zip|09bd9ffaf831cca725025c12f1b3b739
+/DataTable/Store.edf.zip|14aeef4c41b1e474e6efabdb8bd301e2
 /DataTable/Transmog.EDF.zip|239c1d3e0aff4826a8e2bfb3de65afde
 /DataTable/UIHelp.edf.zip|15ead705448a8c643691ed38a405b273
 /DataTable/WORLDMAPDATA.DAT.zip|5de8535c62c9da19a6ba1af25c067d42
@@ -81,7 +81,7 @@
 /DataTable/en-gb/MonsterScript.edf.zip|58bc63718e5bfeb39c37cf32a1450feb
 /DataTable/en-gb/NDCharacter.edf.zip|dd51ed854ee84ed157acc721fa9e991c
 /DataTable/en-gb/NDEventShip.edf.zip|43ee4f8bfa68df5274575fe62ca53233
-/DataTable/en-gb/NDItem.edf.zip|986bcdd6b67250294d7079823fa478b6
+/DataTable/en-gb/NDItem.edf.zip|c4c76c307929004d42168d7d271c9217
 /DataTable/en-gb/NDItemCash.edf.zip|470b9873a8d4edf84317bab97a7a5b98
 /DataTable/en-gb/NDLanguage.edf.zip|e84adc803770d7bb69f862f5fd9f2939
 /DataTable/en-gb/NDMap.edf.zip|88b2cfbaef469bd6188bf302d0910b9f
@@ -89,7 +89,7 @@
 /DataTable/en-gb/NDMsgMonster.edf.zip|e9daef60b0b07f4bfce1f8a26cb9af9f
 /DataTable/en-gb/NDQuest.edf.zip|3f328869e98487fdda14d710e6fae813
 /DataTable/en-gb/NDSkillForce.edf.zip|a984062930a6a4ab425fc73cdc2d66cd
-/DataTable/en-gb/NDStore.edf.zip|68cc707b4bf8100f21568faed3b3d356
+/DataTable/en-gb/NDStore.edf.zip|5398c3c0fcec2ef68ce57e5ff8363d99
 /DataTable/en-gb/PcRoom.edf.zip|a067b08f20e710d4af9bf5f17f175333
 /DataTable/en-gb/Player.edf.zip|843c820cd2e23582e2fa440ca02a3b16
 /DataTable/en-gb/Quest.edf.zip|6339676576ea87b3bd9de3e2e66bafe8
