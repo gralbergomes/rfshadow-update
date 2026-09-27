@@ -12,7 +12,7 @@
 /DataTable/GemSockets.EDF.zip|742b1e159c9a6d40ca0f252e970f24c2
 /DataTable/Hint.edf.zip|f07012fdf750dbcb074dd52cf07f7b5c
 /DataTable/Ipa.dic.zip|763949e09e1fba438c41752b1197e741
-/DataTable/Item.edf.zip|131c4d410bbeb9754816d23d6878b619
+/DataTable/Item.edf.zip|1a293ea505f6c8490b86b0cd36fc095d
 /DataTable/ItemCash.edf.zip|67b9f880df59361152b3bf9b121ab7c8
 /DataTable/ItemCombine.edf.zip|75b9d1249d55fa1d668da265dc874b51
 /DataTable/ItemPremium.edf.zip|1ad9c98dd2db4e797c1190d96275c7e5
@@ -33,7 +33,7 @@
 /DataTable/RadiusView.EDF.zip|2cfe5aebd684ef8791eb3abb16360ab7
 /DataTable/Resource.edf.zip|2ac3aeaf67c40ab44b09d48dc7f54807
 /DataTable/SetItemEffect.edf.zip|ed48b690673ed0934621df4377b82e81
-/DataTable/SkillForce.edf.zip|97be6e5d9f2fe0885e6146b99ded157d
+/DataTable/SkillForce.edf.zip|f16942c61a939d62b050d754fad9957f
 /DataTable/Store.edf.zip|7700d833787ef165ed8d8776acd2fd7c
 /DataTable/Transmog.EDF.zip|239c1d3e0aff4826a8e2bfb3de65afde
 /DataTable/UIHelp.edf.zip|15ead705448a8c643691ed38a405b273
@@ -81,14 +81,14 @@
 /DataTable/en-gb/MonsterScript.edf.zip|58bc63718e5bfeb39c37cf32a1450feb
 /DataTable/en-gb/NDCharacter.edf.zip|dd51ed854ee84ed157acc721fa9e991c
 /DataTable/en-gb/NDEventShip.edf.zip|43ee4f8bfa68df5274575fe62ca53233
-/DataTable/en-gb/NDItem.edf.zip|7be963d61bff347203a54bfa68356d56
+/DataTable/en-gb/NDItem.edf.zip|e33b680e628ab8db117855701870f414
 /DataTable/en-gb/NDItemCash.edf.zip|25fd7dd2067697f0d4394d7bd3985396
 /DataTable/en-gb/NDLanguage.edf.zip|e84adc803770d7bb69f862f5fd9f2939
 /DataTable/en-gb/NDMap.edf.zip|88b2cfbaef469bd6188bf302d0910b9f
 /DataTable/en-gb/NDMsgEvent.edf.zip|711c26de29943b58af762260a99c603b
 /DataTable/en-gb/NDMsgMonster.edf.zip|e9daef60b0b07f4bfce1f8a26cb9af9f
 /DataTable/en-gb/NDQuest.edf.zip|3f328869e98487fdda14d710e6fae813
-/DataTable/en-gb/NDSkillForce.edf.zip|c278c726c25b239af0c656c76a959d04
+/DataTable/en-gb/NDSkillForce.edf.zip|058243954698b38ce06db65a8665b53c
 /DataTable/en-gb/NDStore.edf.zip|9c25db76b9ff7108ab735eefac0a5d3e
 /DataTable/en-gb/PcRoom.edf.zip|a067b08f20e710d4af9bf5f17f175333
 /DataTable/en-gb/Player.edf.zip|843c820cd2e23582e2fa440ca02a3b16
