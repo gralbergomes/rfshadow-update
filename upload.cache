@@ -12,7 +12,7 @@
 /DataTable/GemSockets.EDF.zip|742b1e159c9a6d40ca0f252e970f24c2
 /DataTable/Hint.edf.zip|f07012fdf750dbcb074dd52cf07f7b5c
 /DataTable/Ipa.dic.zip|763949e09e1fba438c41752b1197e741
-/DataTable/Item.edf.zip|1a293ea505f6c8490b86b0cd36fc095d
+/DataTable/Item.edf.zip|ca73d6ac0288b50681100b24cb1b4124
 /DataTable/ItemCash.edf.zip|67b9f880df59361152b3bf9b121ab7c8
 /DataTable/ItemCombine.edf.zip|75b9d1249d55fa1d668da265dc874b51
 /DataTable/ItemPremium.edf.zip|1ad9c98dd2db4e797c1190d96275c7e5
@@ -81,7 +81,7 @@
 /DataTable/en-gb/MonsterScript.edf.zip|58bc63718e5bfeb39c37cf32a1450feb
 /DataTable/en-gb/NDCharacter.edf.zip|dd51ed854ee84ed157acc721fa9e991c
 /DataTable/en-gb/NDEventShip.edf.zip|43ee4f8bfa68df5274575fe62ca53233
-/DataTable/en-gb/NDItem.edf.zip|e33b680e628ab8db117855701870f414
+/DataTable/en-gb/NDItem.edf.zip|7f46a7d4017caefd918cb271c1a85fd0
 /DataTable/en-gb/NDItemCash.edf.zip|25fd7dd2067697f0d4394d7bd3985396
 /DataTable/en-gb/NDLanguage.edf.zip|e84adc803770d7bb69f862f5fd9f2939
 /DataTable/en-gb/NDMap.edf.zip|88b2cfbaef469bd6188bf302d0910b9f
@@ -210,7 +210,7 @@
 /Snooper/mod/tooltips.ini.zip|45c525adb93cbbe3573b1e8d00ea32b5
 /Snooper/mod/transaction.ini.zip|d36e35d0bac1b64ab91615995cf531d3
 /Snooper/mod/transmutation.ini.zip|c639b2bbd170bc342513c176838569e9
-/Snooper/mod/ui_globals.ini.zip|1d004062de16e70c2a7c231829e6059c
+/Snooper/mod/ui_globals.ini.zip|6b3652ff379e2feca0cda933a0eb14d9
 /Snooper/mod/ui_pos.ini.zip|97e8201364a27679f2cc7109952631d0
 /Snooper/mod/unmannedtrader.ini.zip|b19dae8e8d1413eb5d2b49f947870097
 /Snooper/pkg/direct3d9.pkg.zip|c53a5c774921831c783a7c0d1f44c9ce
