@@ -27,7 +27,7 @@
 /DataTable/MsgEvent.edf.zip|bcfada5b930f4b621c30ca7b78c4691c
 /DataTable/Player.edf.zip|6ea663a09cc9df5e651c889f0e339d02
 /DataTable/PlayerCharacter.edf.zip|61db54f47c56318f9650a2b1a32a787c
-/DataTable/Quest.edf.zip|a29661394a5f72677fb7ccd2d3640341
+/DataTable/Quest.edf.zip|682ccf5008ec8cf64cf1abcc5222c93a
 /DataTable/RF_AVI.dat.zip|5a03e8b6134a7c2e24fd143e6d169f94
 /DataTable/RF_URL.dat.zip|373368f17f880e1ac81cd78eb051c76d
 /DataTable/RadiusView.EDF.zip|2cfe5aebd684ef8791eb3abb16360ab7
@@ -83,7 +83,7 @@
 /DataTable/en-gb/NDEventShip.edf.zip|43ee4f8bfa68df5274575fe62ca53233
 /DataTable/en-gb/NDItem.edf.zip|7c4435d6f051bb626a619d22afbe5a60
 /DataTable/en-gb/NDItemCash.edf.zip|25fd7dd2067697f0d4394d7bd3985396
-/DataTable/en-gb/NDLanguage.edf.zip|8dec4647cb19dc04d74bd10ca8eafc20
+/DataTable/en-gb/NDLanguage.edf.zip|5d84dae0e8e05ec9e092aebb659bf914
 /DataTable/en-gb/NDMap.edf.zip|88b2cfbaef469bd6188bf302d0910b9f
 /DataTable/en-gb/NDMsgEvent.edf.zip|711c26de29943b58af762260a99c603b
 /DataTable/en-gb/NDMsgMonster.edf.zip|e9daef60b0b07f4bfce1f8a26cb9af9f
@@ -204,7 +204,7 @@
 /Snooper/mod/potion.ini.zip|b89fa51b317d714f42fd580d2d23dd82
 /Snooper/mod/resources.ini.zip|41b6427d3603bdd51e9aef32959ac135
 /Snooper/mod/season_pass.ini.zip|a3cf75e38c2be8665969f15af3161da0
-/Snooper/mod/shop.ini.zip|12994e3eb5e461f47b76ec5e7d83b353
+/Snooper/mod/shop.ini.zip|1f78f2b9d93256bc35cd240e50b93bf5
 /Snooper/mod/smartbox.ini.zip|4f68903203556c0cefc030a7d8eb8424
 /Snooper/mod/system_message.ini.zip|0d5605135ed7f67aa280eaeb6189129e
 /Snooper/mod/tooltips.ini.zip|45c525adb93cbbe3573b1e8d00ea32b5
