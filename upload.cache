@@ -349,7 +349,7 @@
 /SpriteImage/common/pvp.spr.zip|b10b83cf95f86e360ab8614ebb6d708e
 /SpriteImage/common/shop.spr.zip|d298df140df0adaaeb3e0b961729c4d7
 /SpriteImage/common/summon.spr.zip|0cd1bdc0772c776ac67e5571456a2eb1
-/SpriteImage/common/system.spr.zip|6386e91823edc1d9d5b18f7b64fdc697
+/SpriteImage/common/system.spr.zip|d4f020a1268a3fa09be1cc6977cb26dc
 /SpriteImage/common/trade.spr.zip|35cd95571c47d336432091cafc09c700
 /SpriteImage/common/trunk.spr.zip|69f3f7bf8c4b0ad0fa2295aa271c8248
 /SpriteImage/common/tutorial.spr.zip|0bd1674b045b0b2ad06d7edae4515bb3
@@ -449,9 +449,9 @@
 /SpriteImage/en-gb/Launcher/server_greeting_background.bmp.zip|61a9ec016f5a4a30253d30884e056792
 /SpriteImage/en-gb/Launcher/slider_bar.bmp.zip|2c8f828e6f46b033adb94875d38a0d04
 /SpriteImage/en-gb/common.spr.zip|329b66cecc0eb50ffc588170d29e635e
-/SpriteImage/en-gb/itemupgrade.spr.zip|1c1b6643db91436d8bbc4c76d6e311b2
+/SpriteImage/en-gb/itemupgrade.spr.zip|b9eb74bf8d8c960e87a78d937ee6b277
 /SpriteImage/en-gb/loading.spr.zip|db9a39a36838daa6ac36a543d47f7460
-/SpriteImage/en-gb/login.spr.zip|2445a8b35845f79153993267de962d69
+/SpriteImage/en-gb/login.spr.zip|081baae9c88c064a98abad7448928c5f
 /SpriteImage/ru-ru/CashShop.spr.zip|b8986f87abf25adefefa7ef1e52bd36a
 /SpriteImage/ru-ru/Launcher/Dummy_LoginDlg.bmp.zip|4304562a95f1cec1f7eec92fca5f4c76
 /SpriteImage/ru-ru/Launcher/Dummy_basebackground.bmp.zip|81e15cb244b96cc0a4384ed2549ca5c6
