@@ -218,7 +218,7 @@
 /Snooper/socketitem.dat.zip|376f9eb5d5d165952487c77c2d8fe62b
 /Snooper/transmutation.dat.zip|62a6cf12e48d39ae33b335ed12e6f7bd
 /SpriteImage/common/7DayLogin.spr.zip|4597cc1b38407c11f3427481d66cb013
-/SpriteImage/common/Etc.spr.zip|709eafffbe315e6bf255e02eb556ccec
+/SpriteImage/common/Etc.spr.zip|e06eb1faf8ca02616b1f8ecfb11f4aff
 /SpriteImage/common/GuildSkills.spr.zip|425142ea4d2d5572e8bea47aa58a08ed
 /SpriteImage/common/ItemSockets.spr.zip|5d1e97e010a710ba50d6ed44c5605f36
 /SpriteImage/common/Launcher/CountrySelect_bg.bmp.zip|9a754612d9f96b67fc7404ed0dcf20c9
@@ -324,14 +324,14 @@
 /SpriteImage/common/dungeon.spr.zip|0d829676b5205162cf1701f0475c3cb8
 /SpriteImage/common/emblem.spr.zip|6cd0c317d8df7bd701f920b48e5ebc00
 /SpriteImage/common/exchange.spr.zip|bcebf55523313a41a5d55d2f3abb5474
-/SpriteImage/common/guild.spr.zip|39848d942891c579102c1b74aaaa91b4
+/SpriteImage/common/guild.spr.zip|dc8c3a7b2e19ec58b2da00ff9fa6e77d
 /SpriteImage/common/inventory.spr.zip|2907bcd406551be9a20543a9ed84f26c
 /SpriteImage/common/item.spr.zip|7b9d01d11aa9053af0707f38ff83b544
-/SpriteImage/common/itemcombine.spr.zip|cb2b8e62f5f453298d38643360e22f84
+/SpriteImage/common/itemcombine.spr.zip|50418ec1e5e41b7424c7cf0c659c3767
 /SpriteImage/common/itemmake.spr.zip|e814248cb53dd5c7b9042af9bb26ee22
 /SpriteImage/common/main.spr.zip|c16013b6ce3018a49d880856931122ca
 /SpriteImage/common/maploading.spr.zip|fdc88e1289902256f6144caf00fc66ee
-/SpriteImage/common/mining.spr.zip|ba779858feb0749f31c34510137e8e8a
+/SpriteImage/common/mining.spr.zip|983bd225d5703ec583cecf5291ec3fc5
 /SpriteImage/common/mouse.spr.zip|385ccfcfe3f4cac4c7da3a12cc0d681b
 /SpriteImage/common/npc/acc.spr.zip|6d660900fe13f605a8fef1821db071e5
 /SpriteImage/common/npc/acc_armor.spr.zip|d4f33e2d46ac35e417010770e5b769af
@@ -450,7 +450,7 @@
 /SpriteImage/en-gb/Launcher/scr_back.bmp.zip|595af112a70fe1a1992761a6dd182a54
 /SpriteImage/en-gb/Launcher/server_greeting_background.bmp.zip|61a9ec016f5a4a30253d30884e056792
 /SpriteImage/en-gb/Launcher/slider_bar.bmp.zip|2c8f828e6f46b033adb94875d38a0d04
-/SpriteImage/en-gb/common.spr.zip|2be8cca999743bfea6d2ffbc3d00fad4
+/SpriteImage/en-gb/common.spr.zip|329b66cecc0eb50ffc588170d29e635e
 /SpriteImage/en-gb/itemupgrade.spr.zip|1c1b6643db91436d8bbc4c76d6e311b2
 /SpriteImage/en-gb/loading.spr.zip|db9a39a36838daa6ac36a543d47f7460
 /SpriteImage/en-gb/login.spr.zip|20108b0e4e53548f8ee2293a2fcef6ad
