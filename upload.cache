@@ -312,7 +312,7 @@
 /SpriteImage/common/Map/Trns01_Field.spr.zip|35c92135880e0138e14e9a20b754a97c
 /SpriteImage/common/Map/Wind_Field.spr.zip|0dac2f34a3c3be06aa7000361a220825
 /SpriteImage/common/Map/Winner_Field.spr.zip|38de67b021584a680c743b04bdb12e87
-/SpriteImage/common/Mods.spr.zip|f843291942dff707b6d25b109d07971e
+/SpriteImage/common/Mods.spr.zip|5655d2d4e263d8a44b3dcbb243597120
 /SpriteImage/common/News.spr.zip|ed2641ff71bdf9d44a7d1480ddc5d1ea
 /SpriteImage/common/PvpNotices.spr.zip|9b9e5e378b9355652e72a62fc58b251f
 /SpriteImage/common/SeasonPass.spr.zip|a5076a572784b0a5ea7a338d24ed57f7
@@ -349,9 +349,9 @@
 /SpriteImage/common/owndev.spr.zip|a0e3301783beb2da283c7a796372bfdc
 /SpriteImage/common/patriarch.spr.zip|4dcf44be466ed1369353b1ff9b7b52bc
 /SpriteImage/common/pvp.spr.zip|b10b83cf95f86e360ab8614ebb6d708e
-/SpriteImage/common/shop.spr.zip|47509cb1542a08cb4b27c32139740c93
+/SpriteImage/common/shop.spr.zip|d298df140df0adaaeb3e0b961729c4d7
 /SpriteImage/common/summon.spr.zip|0cd1bdc0772c776ac67e5571456a2eb1
-/SpriteImage/common/system.spr.zip|3431370d140ab48a476c391bd2f8dd7f
+/SpriteImage/common/system.spr.zip|6386e91823edc1d9d5b18f7b64fdc697
 /SpriteImage/common/trade.spr.zip|35cd95571c47d336432091cafc09c700
 /SpriteImage/common/trunk.spr.zip|69f3f7bf8c4b0ad0fa2295aa271c8248
 /SpriteImage/common/tutorial.spr.zip|0bd1674b045b0b2ad06d7edae4515bb3
@@ -453,7 +453,7 @@
 /SpriteImage/en-gb/common.spr.zip|329b66cecc0eb50ffc588170d29e635e
 /SpriteImage/en-gb/itemupgrade.spr.zip|1c1b6643db91436d8bbc4c76d6e311b2
 /SpriteImage/en-gb/loading.spr.zip|db9a39a36838daa6ac36a543d47f7460
-/SpriteImage/en-gb/login.spr.zip|20108b0e4e53548f8ee2293a2fcef6ad
+/SpriteImage/en-gb/login.spr.zip|2445a8b35845f79153993267de962d69
 /SpriteImage/ru-ru/CashShop.spr.zip|b8986f87abf25adefefa7ef1e52bd36a
 /SpriteImage/ru-ru/Launcher/Dummy_LoginDlg.bmp.zip|4304562a95f1cec1f7eec92fca5f4c76
 /SpriteImage/ru-ru/Launcher/Dummy_basebackground.bmp.zip|81e15cb244b96cc0a4384ed2549ca5c6
