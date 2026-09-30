@@ -12,9 +12,9 @@
 /DataTable/GemSockets.EDF.zip|742b1e159c9a6d40ca0f252e970f24c2
 /DataTable/Hint.edf.zip|f07012fdf750dbcb074dd52cf07f7b5c
 /DataTable/Ipa.dic.zip|763949e09e1fba438c41752b1197e741
-/DataTable/Item.edf.zip|1357f9cfe744b9a21bd57061ebae6808
+/DataTable/Item.edf.zip|38f323cb7afddc6529c09804879210df
 /DataTable/ItemCash.edf.zip|67b9f880df59361152b3bf9b121ab7c8
-/DataTable/ItemCombine.edf.zip|75b9d1249d55fa1d668da265dc874b51
+/DataTable/ItemCombine.edf.zip|638607b7396e9820fe7187d9180cf7f0
 /DataTable/ItemPremium.edf.zip|1ad9c98dd2db4e797c1190d96275c7e5
 /DataTable/ItemSetEffect.edf.zip|251130b9e444e7d1553f05fb81a4704c
 /DataTable/ItemTimer.edf.zip|d558ce2840cd8f26d42d1ce6d8b5ae80
@@ -81,7 +81,7 @@
 /DataTable/en-gb/MonsterScript.edf.zip|58bc63718e5bfeb39c37cf32a1450feb
 /DataTable/en-gb/NDCharacter.edf.zip|41e815007c91ac422d0269f05c071658
 /DataTable/en-gb/NDEventShip.edf.zip|43ee4f8bfa68df5274575fe62ca53233
-/DataTable/en-gb/NDItem.edf.zip|5cf87baa7cd0e2acdb397f00f65c4236
+/DataTable/en-gb/NDItem.edf.zip|71f7d098fdbd078e8bb7fd969d086e29
 /DataTable/en-gb/NDItemCash.edf.zip|25fd7dd2067697f0d4394d7bd3985396
 /DataTable/en-gb/NDLanguage.edf.zip|5d84dae0e8e05ec9e092aebb659bf914
 /DataTable/en-gb/NDMap.edf.zip|88b2cfbaef469bd6188bf302d0910b9f
@@ -325,7 +325,7 @@
 /SpriteImage/common/exchange.spr.zip|bcebf55523313a41a5d55d2f3abb5474
 /SpriteImage/common/guild.spr.zip|dc8c3a7b2e19ec58b2da00ff9fa6e77d
 /SpriteImage/common/inventory.spr.zip|fa37b56056bc3bf974c559826d1e58b3
-/SpriteImage/common/item.spr.zip|b06672c4973e73f1ce96ecf9112f77a5
+/SpriteImage/common/item.spr.zip|25a513982c7a62bd5baf7e5462206da6
 /SpriteImage/common/itemcombine.spr.zip|50418ec1e5e41b7424c7cf0c659c3767
 /SpriteImage/common/itemmake.spr.zip|e814248cb53dd5c7b9042af9bb26ee22
 /SpriteImage/common/main.spr.zip|84473f54b6383e832fa3c817fdb32f3d
