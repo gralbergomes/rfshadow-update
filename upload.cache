@@ -2,7 +2,7 @@
 /DataTable/BattleDungeon.edf.zip|fcc8cb7faf0227f00bc601c7d67674e6
 /DataTable/CashShop.edf.zip|54aa657df6de4f35dafa9da9434e2b68
 /DataTable/CcrLogo.dat.zip|7caf1543fde153290a7290f35f2f3ab4
-/DataTable/Character.edf.zip|44d3224ae430d7e41af6118007c126ae
+/DataTable/Character.edf.zip|11b182b36e74a9a96c5d2b2b4db45f65
 /DataTable/Csia.txt.zip|8f028e027e0b2758cb50a6094f9fd9ad
 /DataTable/EventShip.edf.zip|9f1158bdfd3204cf04d6e969a567790c
 /DataTable/EventSound.edf.zip|9bf41128903a305b2e1f3cccdfef3033
@@ -12,7 +12,7 @@
 /DataTable/GemSockets.EDF.zip|742b1e159c9a6d40ca0f252e970f24c2
 /DataTable/Hint.edf.zip|f07012fdf750dbcb074dd52cf07f7b5c
 /DataTable/Ipa.dic.zip|763949e09e1fba438c41752b1197e741
-/DataTable/Item.edf.zip|423c4cfd53d21f3066132af1eccfaa06
+/DataTable/Item.edf.zip|bb26621329e43497423ce0258da71c38
 /DataTable/ItemCash.edf.zip|67b9f880df59361152b3bf9b121ab7c8
 /DataTable/ItemCombine.edf.zip|638607b7396e9820fe7187d9180cf7f0
 /DataTable/ItemPremium.edf.zip|1ad9c98dd2db4e797c1190d96275c7e5
@@ -33,7 +33,7 @@
 /DataTable/RadiusView.EDF.zip|2cfe5aebd684ef8791eb3abb16360ab7
 /DataTable/Resource.edf.zip|2ac3aeaf67c40ab44b09d48dc7f54807
 /DataTable/SetItemEffect.edf.zip|ed48b690673ed0934621df4377b82e81
-/DataTable/SkillForce.edf.zip|09ef5af6d258fa0fb857dca164114bf4
+/DataTable/SkillForce.edf.zip|83e91025c99cae8b3415caaebdbf0886
 /DataTable/Store.edf.zip|d285584a1781992dcc082e4adfb93cfb
 /DataTable/Transmog.EDF.zip|239c1d3e0aff4826a8e2bfb3de65afde
 /DataTable/UIHelp.edf.zip|15ead705448a8c643691ed38a405b273
@@ -79,16 +79,16 @@
 /DataTable/en-gb/Map.edf.zip|27079ab968de7ae71b68bd40a15dff3e
 /DataTable/en-gb/MiniLauncher.Localization.ini.zip|6e1dc4e2fdef99c8932448a690e255e2
 /DataTable/en-gb/MonsterScript.edf.zip|58bc63718e5bfeb39c37cf32a1450feb
-/DataTable/en-gb/NDCharacter.edf.zip|ca96fc7db30d47a06cc610525bfa549a
+/DataTable/en-gb/NDCharacter.edf.zip|895da3326b6de5753cb16f90201dedb9
 /DataTable/en-gb/NDEventShip.edf.zip|43ee4f8bfa68df5274575fe62ca53233
-/DataTable/en-gb/NDItem.edf.zip|a014d332693bbaaf2eb4650d9178190b
+/DataTable/en-gb/NDItem.edf.zip|3ad91cc83391a7730743bc17a1b01395
 /DataTable/en-gb/NDItemCash.edf.zip|25fd7dd2067697f0d4394d7bd3985396
 /DataTable/en-gb/NDLanguage.edf.zip|5d84dae0e8e05ec9e092aebb659bf914
 /DataTable/en-gb/NDMap.edf.zip|88b2cfbaef469bd6188bf302d0910b9f
 /DataTable/en-gb/NDMsgEvent.edf.zip|711c26de29943b58af762260a99c603b
 /DataTable/en-gb/NDMsgMonster.edf.zip|e9daef60b0b07f4bfce1f8a26cb9af9f
 /DataTable/en-gb/NDQuest.edf.zip|3f328869e98487fdda14d710e6fae813
-/DataTable/en-gb/NDSkillForce.edf.zip|1525decc1c1e8b3df4201a3202782873
+/DataTable/en-gb/NDSkillForce.edf.zip|1f9b4dcbc0200fb75aa4e101d257da28
 /DataTable/en-gb/NDStore.edf.zip|d8ab10b3876ff53f4cc219bab16b3d50
 /DataTable/en-gb/PcRoom.edf.zip|a067b08f20e710d4af9bf5f17f175333
 /DataTable/en-gb/Player.edf.zip|843c820cd2e23582e2fa440ca02a3b16
